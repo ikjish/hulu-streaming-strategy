@@ -12,38 +12,38 @@ This project analyzes Hulu’s content catalog using Tableau, with a focus on co
 
 
 **Total Titles:** 3,073 
-<img width="2442" height="1582" alt="Dounut Chart" src="https://github.com/user-attachments/assets/2e82e0b8-daad-454e-9ce5-a551bb25774a" />
-
 - 📺 TV Shows: 1,589 (51.7%)  
 - 🎥 Movies: 1,484 (48.3%)
+<img width="2442" height="1582" alt="Dounut Chart" src="https://github.com/user-attachments/assets/2e82e0b8-daad-454e-9ce5-a551bb25774a" />
+
 
 **Top Genres:** 
-<img width="2462" height="1506" alt="Top Genre " src="https://github.com/user-attachments/assets/a78f8f66-307d-400b-8b6b-4a9079d047a1" />
-
 - Action & Adventure (by a large margin)  
 - Growing interest in Animation & Adult Content
+<img width="2462" height="1506" alt="Top Genre " src="https://github.com/user-attachments/assets/a78f8f66-307d-400b-8b6b-4a9079d047a1" />
 
-**Top Content Origins:**  
-<img width="2444" height="1574" alt="Total Movies and TV shows by country  " src="https://github.com/user-attachments/assets/c0ca3f30-8de1-462b-b4a4-a1722778bf66" />
 
+**Top Content Origins:** 
 - 🇺🇸 United States (921 titles)  
 - 🇬🇧 United Kingdom  
 - 🇷🇺 Russia  
 - 🇨🇦 Canada  
 - 🇰🇷 South Korea
+<img width="2444" height="1574" alt="Total Movies and TV shows by country  " src="https://github.com/user-attachments/assets/c0ca3f30-8de1-462b-b4a4-a1722778bf66" />
+
 
 **Most Common Ratings:**  
-<img width="2462" height="1506" alt="Ratings " src="https://github.com/user-attachments/assets/9bda9c40-41e1-4357-a51c-b7308f98b14f" />
-
 - TV-14 (691 titles)  
 - TV-MA (391)  
 - R & PG-13 follow behind
 
-**Year-over-Year Growth:** 
-<img width="2392" height="1506" alt="Total Movies   Tv shows By years " src="https://github.com/user-attachments/assets/f70d9403-1412-48d4-9b17-0afe34db4e49" />
+<img width="2462" height="1506" alt="Ratings " src="https://github.com/user-attachments/assets/9bda9c40-41e1-4357-a51c-b7308f98b14f" />
 
+**Year-over-Year Growth:** 
 - Flat growth until ~2017  
 - Spike from 2018–2021 — doubling the content volume
+
+<img width="2392" height="1506" alt="Total Movies   Tv shows By years " src="https://github.com/user-attachments/assets/f70d9403-1412-48d4-9b17-0afe34db4e49" />
 
 
 
