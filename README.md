@@ -2,7 +2,7 @@
 
 ## 🔍 Overview
 
-This project analyzes Hulu’s content catalog using Tableau, with a focus on content distribution, genre trends, maturity ratings, and global availability. It combines **descriptive**, **diagnostic**, and **prescriptive analytics** to uncover where Hulu stands — and where it could grow.
+This project analyzes Hulu’s content catalog using Tableau, with a focus on content distribution, genre trends, maturity ratings, and global availability. It combines **descriptive**, **diagnostic**, and **prescriptive analytics** to uncover where Hulu stands and where it could grow.
 
 ---
 
@@ -68,10 +68,10 @@ I began by breaking down the big picture — what exactly does Hulu have?
 
 Once I knew the "what," I explored the "why."
 
-- Bigger genre bubbles like ***Action, Adventure*** suggest a strategic focus on high-energy, high-engagement content.
+- Bigger genre bubbles like ***Action, Adventure*** suggest a strategic focus on high energy, high engagement content.
 - Dominance of **TV-MA** and **TV-14** implies Hulu’s target audience is largely **older teens and adults**.
 - The content map exposed Hulu’s heavy focus on **U.S.-produced content**, which could reflect licensing or regional sourcing limitations.
-- A **stacked area chart by year** revealed major growth after 2017 — possibly influenced by the broader shift toward digital streaming and binge consumption.
+- A **stacked area chart by year** revealed major growth after 2017  possibly influenced by the broader shift toward digital streaming and binge consumption.
 
 ---
 
