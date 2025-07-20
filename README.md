@@ -31,11 +31,15 @@ This project analyzes Hulu’s content catalog using Tableau, with a focus on co
 - 🇰🇷 South Korea
 
 **Most Common Ratings:**  
+<img width="2462" height="1506" alt="Ratings " src="https://github.com/user-attachments/assets/9bda9c40-41e1-4357-a51c-b7308f98b14f" />
+
 - TV-14 (691 titles)  
 - TV-MA (391)  
 - R & PG-13 follow behind
 
-**Year-over-Year Growth:**  
+**Year-over-Year Growth:** 
+<img width="2392" height="1506" alt="Total Movies   Tv shows By years " src="https://github.com/user-attachments/assets/f70d9403-1412-48d4-9b17-0afe34db4e49" />
+
 - Flat growth until ~2017  
 - Spike from 2018–2021 — doubling the content volume
 
