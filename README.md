@@ -7,7 +7,9 @@ This project analyzes Hulu’s content catalog using Tableau, with a focus on co
 ---
 
 ## 📊 Dashboard Insights
-<img width="2800" height="1600" alt="HULU Dashboard 1" src="https://github.com/user-attachments/assets/29d4b62c-fc30-4b8b-a83f-5f7f903aa6ce" />
+<img width="2800" height="1600" alt="HULU Dashboard " src="https://github.com/user-attachments/assets/e1f6427f-ee7b-4b8a-84c3-e3458735897d" />
+
+
 
 **Total Titles:** 3,073 
 <img width="2442" height="1582" alt="Dounut Chart" src="https://github.com/user-attachments/assets/2e82e0b8-daad-454e-9ce5-a551bb25774a" />
